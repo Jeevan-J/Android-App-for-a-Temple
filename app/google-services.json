@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "51749579707",
+    "firebase_url": "https://sree-shirdi-sai-baba-temple.firebaseio.com",
+    "project_id": "sree-shirdi-sai-baba-temple",
+    "storage_bucket": "sree-shirdi-sai-baba-temple.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51749579707:android:0b60af42b03957ad",
+        "android_client_info": {
+          "package_name": "in.saibabatemple.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51749579707-dcb3qkesks7gmbmfoo7c80dbdnh8c2l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.saibabatemple.myapplication",
+            "certificate_hash": "ff37d313bd54a00c227ac5d80bc908f882056116"
+          }
+        },
+        {
+          "client_id": "51749579707-bdbs3ajiag2rnvotsjtf30he3k6nt8ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.saibabatemple.myapplication",
+            "certificate_hash": "e164c580d71cb421eec59b67bb8390749b0dcc24"
+          }
+        },
+        {
+          "client_id": "51749579707-tsku9f2k6qo4pi0g6vmgkuo0mmtf8k20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.saibabatemple.myapplication",
+            "certificate_hash": "80f05c6b8d02c58404b2563f0a3f11501fdf606a"
+          }
+        },
+        {
+          "client_id": "51749579707-m75h2troeoj53aa8dd1vn73n481gshkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhr5hzxEfckTOyi14WOPfMQDqvREiVcT4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51749579707-m75h2troeoj53aa8dd1vn73n481gshkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

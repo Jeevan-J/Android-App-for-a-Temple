@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Sree Shirdi Sai Baba Temple</string>
+    <string name="welcome">Welcome!</string>
+    <string name="facebook_app_id">1914043448874245</string>
+    <string name="fb_login_protocol_scheme">fb1914043448874245</string>
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+    <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+
+    <string name="label_facebook_login">Firebase + Facebook Login</string>
+    <string name="desc_facebook_login">Use a Facebook Login credential to authenticate with Firebase.</string>
+    <string name="label_firebase_ui">FirebaseUI Auth</string>
+    <string name="desc_firebase_ui">Use the FirebaseUI-Android library to authenticate with Firebase.</string>
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="status_code_sent">Code Sent</string>
+    <string name="status_verification_failed">Verification failed</string>
+    <string name="status_verification_succeeded">Verification succeeded</string>
+    <string name="status_sign_in_failed">Sign-in failed</string>
+    <string name="instant_validation">(instant validation)</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="facebook_title_text">Facebook Login</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="daily_schedule">Daily Schedule</string>
+    <string name="daily_sevas">Daily Sevas</string>
+    <string name="facebook_page">Facebook Page</string>
+    <string name="location">Location</string>
+
+    <string name="app_name1">Youtube Player</string>
+    <string name="title_logo">Sree Shirdi Sai Baba Temple</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="baba_aarathi_s">Baba Songs</string>
+    <string name="facebook">Facebook</string>
+    <string name="temple_video">Temple Video</string>
+    <string name="website">Website</string>
+
+    <string name="google_maps_key">AIzaSyDhr5hzxEfckTOyi14WOPfMQDqvREiVcT4</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="title_activity_contact__us">Contact_Us</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sej_aarathi_8_pm">\u25B6 SEJ Aarathi (8 PM)</string>
+    <string name="click_on_them_to_play">*Click on them to play</string>
+    <string name="baba_songs_list">Baba Songs List</string>
+    <string name="dhoop_aarathi_6_pm">\u25B6 DHOOP Aarathi (6 PM)</string>
+    <string name="kakada_aarathi_6_am">\u25B6 KAKADA Aarathi (6 AM)</string>
+    <string name="madhyana_aarathi_12_pm">\u25B6 MADHYANA Aarathi (12 PM)</string>
+    <string name="_9440080402_krishna_murthy_n_9490092477_rama_devi">9440080402 (Krishna Murthy)  9490092477 (Rama Devi)</string>
+    <string name="address">Address :</string>
+    <string name="contact_number">Contact Number :</string>
+    <string name="e_mail">E-mail :</string>
+    <string name="sree_shirdi_sai_baba_temple_nsai_baba_nagar_nvayalpad_517299_nchittoor_district_nandhra_pradesh">Sree Shirdi Sai Baba Temple,\n Sai Baba Nagar,\n Vayalpad-517299,\n Chittoor District,\n Andhra Pradesh</string>
+    <string name="admin_saibabatemplevayalpad_in_n_jk_vayalpad_yahoo_com">admin@saibabatemplevayalpad.in  jk.vayalpad@yahoo.com</string>
+    <string name="_05_00_pm">05:00 PM</string>
+    <string name="_05_30_am">05:30 AM</string>
+    <string name="time">Time</string>
+</resources>
